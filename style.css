@@ -1,0 +1,56 @@
+/* Ide írhatod a stílusokat a feladat szerint */
+.erdekessegek li {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+body {
+    color: #333333;
+    background-color: #F0F0F0;
+    font-family: 'Arial';
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h2 {
+    text-align: center;
+    align-items: center;
+}
+
+hr {
+    height: 3px;
+    background-color: #CCC;
+    border: none;
+}
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    align-items: center;
+}
+.bemutato > p{
+    font-style: italic;
+}
+
+.latvany > h3{
+    color: #060;
+    text-align: center;
+}
+.latvanyok{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.keret > *{
+    margin-top: 50px;
+}
+
+.keret{
+    width: 90%;
+    margin: 0 auto;
+}
